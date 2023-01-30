@@ -3,7 +3,6 @@
 
 ### Source Changelogs:
 // New features:
-
 • Introducing hotspot client manager
 • Introducing split status bar icon controls for vibrate and mute
 • Added support for showing battery level for AirPods series
@@ -11,7 +10,6 @@
 • Allowing users to quick pull down Quick Settings with one finger
 
 // Fixed issues:
-
 • Fixed issue where alarm icon doesn't show in Quick Settings
 • Fixed issue with battery tint on light mode in Quick Settings
 • Misc fixes and improvements
