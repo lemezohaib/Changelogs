@@ -2,7 +2,7 @@
 ## AwakenOS v3.4 for Redmi Note 10 Pro (sweet)
 
 ### Source Changelogs:
-// New features: </br>
+// New features:
 • Introducing hotspot client manager
 • Introducing split status bar icon controls for vibrate and mute
 • Added support for showing battery level for AirPods series
