@@ -1,18 +1,5 @@
 # Changelogs
-## AwakenOS v3.4 for Redmi Note 10 Pro (sweet)
-
-### Source Changelogs:
-// New features:
-• Introducing hotspot client manager
-• Introducing split status bar icon controls for vibrate and mute
-• Added support for showing battery level for AirPods series
-• Allowing users to disable clipboard overlay
-• Allowing users to quick pull down Quick Settings with one finger
-
-// Fixed issues:
-• Fixed issue where alarm icon doesn't show in Quick Settings
-• Fixed issue with battery tint on light mode in Quick Settings
-• Misc fixes and improvements
+## AwakenOS v3.4 unofficial for Redmi Note 10 Pro (sweet)
 
 ### Device Changelogs:
 
@@ -35,3 +22,17 @@ Disable redir_party_num
 ViLTE should work now?
 Fix Netflix HDR
 Tons of other misc. changes
+
+
+### Source Changelogs:
+// New features:
+• Introducing hotspot client manager
+• Introducing split status bar icon controls for vibrate and mute
+• Added support for showing battery level for AirPods series
+• Allowing users to disable clipboard overlay
+• Allowing users to quick pull down Quick Settings with one finger
+
+// Fixed issues:
+• Fixed issue where alarm icon doesn't show in Quick Settings
+• Fixed issue with battery tint on light mode in Quick Settings
+• Misc fixes and improvements
