@@ -1,5 +1,5 @@
-# Changelogs
-# AwakenOS v3.4 for Redmi Note 10 Pro (sweet)
+### Changelogs
+## AwakenOS v3.4 for Redmi Note 10 Pro (sweet)
 
 # Source Changelogs:
 // New features:
