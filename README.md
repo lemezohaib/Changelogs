@@ -1,7 +1,7 @@
-### Changelogs
+# Changelogs
 ## AwakenOS v3.4 for Redmi Note 10 Pro (sweet)
 
-# Source Changelogs:
+### Source Changelogs:
 // New features:
 
 • Introducing hotspot client manager
@@ -16,9 +16,9 @@
 • Fixed issue with battery tint on light mode in Quick Settings
 • Misc fixes and improvements
 
-# Device Changelogs:
+### Device Changelogs:
 
-# 30-Jan-2023
+#### 30-Jan-2023
 Update kernel to 4.14.304
 Update blobs from MIUI V13.0.15.0.SKFMIXM
 Update the s5kgw3 camera libraries from MIUI V13.0.9.0.SKFINXM
