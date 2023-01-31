@@ -23,6 +23,15 @@ Fix Netflix HDR
 Tons of other misc. changes
 
 
+### Notes:
+• Non EROFS build 
+• Kernel has built-in root support (kernelsu)
+• Use latest recovery (https://t.me/RedmiNote10ProChannel/1254) 
+• Use latest MIUI 13.x firmware for your region
+
+Credits:
+• Aryan and Vantom for sources
+
 ### Source Changelogs:
 // New features:
 • Introducing hotspot client manager
