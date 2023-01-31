@@ -8,7 +8,6 @@ Update kernel to 4.14.304
 Update blobs from MIUI V13.0.15.0.SKFMIXM
 Update the s5kgw3 camera libraries from MIUI V13.0.9.0.SKFINXM
 Update the Adreno stack
-Added Motorola Dolby
 Uprev IQtiRadio with v2.6
 Uprev ImsRadio version to 1.7
 Uprev Bluetooth Audio HIDL to 2.1
