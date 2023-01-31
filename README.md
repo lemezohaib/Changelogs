@@ -3,7 +3,7 @@
 
 ### Device Changelogs:
 
-#### 30-Jan-2023
+#### 31-Jan-2023
 Update kernel to 4.14.304
 Update blobs from MIUI V13.0.15.0.SKFMIXM
 Update the s5kgw3 camera libraries from MIUI V13.0.9.0.SKFINXM
