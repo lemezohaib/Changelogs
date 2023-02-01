@@ -20,6 +20,8 @@ Disable redir_party_num
 ViLTE should work now?
 Fix Netflix HDR
 Added toggle to disable ripple effect
+Fix ripple animation for sfps
+Fix system ui crash when unlocking the device with sfps
 Tons of other misc. changes
 
 
