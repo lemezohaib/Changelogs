@@ -2,11 +2,10 @@
 
 ### Device Changelogs:
 
-#### 1-feb-2023
+#### 2-feb-2023
 Update kernel to 4.14.304
-Update blobs from MIUI V13.0.15.0.SKFMIXM
+Update blobs from MIUI V13.0.16.0.SKFMIXM
 Update the s5kgw3 camera libraries from MIUI V13.0.9.0.SKFINXM
-Update the Adreno stack
 Uprev IQtiRadio with v2.6
 Uprev ImsRadio version to 1.7
 Uprev Bluetooth Audio HIDL to 2.1
@@ -18,14 +17,17 @@ Disable SF composition prediction model
 Force device to treat 170M as sRGB in SF
 Disable redir_party_num
 ViLTE should work now?
-Fix Netflix HDR
+Fixed an issue with wi-fi
+Fixed Netflix HDR
 Added toggle to disable ripple effect
-Fix ripple animation for sfps
-Fix system ui crash when unlocking the device with sfps
+Fixed ripple animation for sfps
+Fixed system ui crash when unlocking the device with sfps
+Enabled battery health
 Tons of other misc. changes
 
 
 ### Notes:
+• Kernel comes with built in su support.
 • Use latest recovery (https://t.me/RedmiNote10ProChannel/1254) 
 • Use latest MIUI 13.x firmware for your region
 
