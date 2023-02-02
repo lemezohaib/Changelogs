@@ -4,6 +4,7 @@
 
 #### 2-feb-2023
 Update kernel to 4.14.304
+Compiled with latest playground Clang 17
 Update blobs from MIUI V13.0.16.0.SKFMIXM
 Update the s5kgw3 camera libraries from MIUI V13.0.9.0.SKFINXM
 Uprev IQtiRadio with v2.6
@@ -36,6 +37,7 @@ Credits:
 
 ### Source Changelogs:
 // New features:
+• Removed text from expanded screenshot chip
 • Introducing hotspot client manager
 • Introducing split status bar icon controls for vibrate and mute
 • Added support for showing battery level for AirPods series
