@@ -5,6 +5,7 @@
 #### 2-feb-2023
 Update kernel to 4.14.304
 Compiled with latest playground Clang 17
+Added Sevtinge's Leica Camera 
 Update blobs from MIUI V13.0.16.0.SKFMIXM
 Update the s5kgw3 camera libraries from MIUI V13.0.9.0.SKFINXM
 Uprev IQtiRadio with v2.6
@@ -28,7 +29,6 @@ Tons of other misc. changes
 
 
 ### Notes:
-• Kernel comes with built in su support.
 • Use latest recovery (https://t.me/RedmiNote10ProChannel/1254) 
 • Use latest MIUI 13.x firmware for your region
 
