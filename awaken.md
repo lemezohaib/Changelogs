@@ -2,7 +2,7 @@
 
 ### Device Changelogs:
 
-#### 4-feb-2023
+#### 5-feb-2023
 Update kernel to 4.14.304
 Compiled with latest playground Clang 17
 Added Sevtinge's Leica Camera 
@@ -21,7 +21,6 @@ Disable redir_party_num
 ViLTE should work now?
 Fixed an issue with wi-fi
 Fixed Netflix HDR
-Added toggle to disable ripple effect
 Fixed ripple animation for sfps
 Fixed system ui crash when unlocking the device with sfps
 Enabled battery health
