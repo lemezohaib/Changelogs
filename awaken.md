@@ -37,6 +37,7 @@ Credits:
 ### Changelog for awakenOS v3.5:
 // New features:
 • Removed text from expanded screenshot chip
+• Made per-app volume work with multi audio focus
 • Re-organized device info page
 • Updated SimpleDeviceConfig
 
