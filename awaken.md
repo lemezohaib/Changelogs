@@ -34,16 +34,15 @@ Tons of other misc. changes
 Credits:
 • Aryan and Vantom for sources
 
-### Source Changelogs:
+### Changelog for awakenOS v3.5:
 // New features:
 • Removed text from expanded screenshot chip
-• Introducing hotspot client manager
-• Introducing split status bar icon controls for vibrate and mute
-• Added support for showing battery level for AirPods series
-• Allowing users to disable clipboard overlay
-• Allowing users to quick pull down Quick Settings with one finger
+• Re-organized device info page
+• Updated SimpleDeviceConfig
 
 // Fixed issues:
-• Fixed issue where alarm icon doesn't show in Quick Settings
-• Fixed issue with battery tint on light mode in Quick Settings
-• Misc fixes and improvements
+
+• Fixed issue where in-call vibration options didn't show if multiple vibration intensity overlay was enabled
+• Fixed issue where smartspace animation seemed to be broken for Pixel Launcher
+• Fixed lock screen status bar was overlapping on Quick Settings (QS) panel
+• Fixed some phantom spaces were left behind on status bar clock after enabling AM/PM styles
