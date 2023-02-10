@@ -3,8 +3,6 @@
 ### Device Changelogs:
 
 #### 10-feb-2023
-February security patch
-Enabled combined qs header like qpr2 beta
 Update kernel to 4.14.304
 Compiled with latest playground Clang 17
 Added Sevtinge's Leica Camera 
@@ -38,6 +36,9 @@ Credits:
 
 ### Changelog for awakenOS v3.5:
 // New features:
+• February security patch
+• Improve sfps ripple animation color
+• Enabled combined qs header like qpr2 beta
 • Removed text from expanded screenshot chip
 • Made per-app volume work with multi audio focus
 • Re-organized device info page
