@@ -2,8 +2,9 @@
 
 ### Device Changelogs:
 
-#### 8-feb-2023
-February security patch 
+#### 10-feb-2023
+February security patch
+Enabled combined qs header like qpr2 beta
 Update kernel to 4.14.304
 Compiled with latest playground Clang 17
 Added Sevtinge's Leica Camera 
