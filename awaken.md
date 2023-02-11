@@ -20,7 +20,7 @@ Force device to treat 170M as sRGB in SF
 Disable redir_party_num
 ViLTE should work now?
 Fixed an issue with wi-fi
-Fixed Netflix HDR
+Fixed HDR in Netflix (using sweet's model this time)
 Fixed ripple animation for sfps
 Fixed system ui crash when unlocking the device with sfps
 Enabled battery health
