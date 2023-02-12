@@ -2,7 +2,7 @@
 
 ### Device Changelogs:
 
-#### 110-feb-2023
+#### 12-feb-2023
 Update kernel to 4.14.304
 Compiled with latest playground Clang 17
 Added Sevtinge's Leica Camera 
