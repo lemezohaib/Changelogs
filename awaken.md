@@ -27,6 +27,7 @@ Tons of other misc. changes
 
 
 ### Notes:
+• EROFS build
 • Use latest recovery (https://t.me/RedmiNote10ProChannel/1254) 
 • Use latest MIUI 13.x firmware for your region
 
