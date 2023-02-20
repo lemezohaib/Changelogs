@@ -47,3 +47,4 @@ Credits:
 - Added hotspot toggle in internet dialog
 - Remove text from expanded screenshot chip
 - Added deepsleep preference in about phone
+- Wi-Fi: Increase 5 GHz network signal tolerance
