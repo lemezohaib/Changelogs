@@ -11,6 +11,8 @@ Update the s5kgw3 camera libraries from MIUI V13.0.9.0.SKFINXM
 Added translations for XiaomiParts
 Adjust status bar padding once again (thanks Nayan)
 Included a possible fix for NFC for JAPAN variants
+Speed up auto brightness ramp up
+Limit AOD and ambient display refresh rate to 60Hz
 Uprev IQtiRadio with v2.6
 Uprev ImsRadio version to 1.7
 Uprev Bluetooth Audio HIDL to 2.1
