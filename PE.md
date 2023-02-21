@@ -5,7 +5,7 @@
 #### 20-feb-2023
 Update kernel to 4.14.304
 Compiled with latest playground Clang 17
-Added MiuiCamera v4.5.002250.1 from MIUI V14.0.1.0.TKFEUXM
+Aperture camera as default with aux lense support and multiple video framerates
 Update blobs from MIUI V14.0.1.0.TKFMIXM
 Update the s5kgw3 camera libraries from MIUI V13.0.9.0.SKFINXM
 Added translations for XiaomiParts
