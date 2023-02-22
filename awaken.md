@@ -2,6 +2,23 @@
 
 ### Device Changelogs:
 
+#### 22-feb-2023
+Updated blobs from sweet V14.0.1.0.TKFEUXM
+Updated miuicamera from V14.0.1.0.TKFEUXM
+Added translations for XiaomiParts
+Adjust status bar padding once again (thanks Nayan)
+Speed up auto brightness ramp up
+Included a possible fix for NFC for JAPAN variants
+Wi-Fi: Increase 5 GHz network signal tolerance
+
+### Notes:
+• EROFS build
+• Use latest recovery (https://t.me/RedmiNote10ProChannel/1254) 
+• Use latest MIUI 14.x firmware from here (https://t.me/aryanschat/190280)
+
+Credits:
+• Aryan and Vantom for sources
+
 #### 12-feb-2023
 Update kernel to 4.14.304
 Compiled with latest playground Clang 17
@@ -24,15 +41,6 @@ Fixed ripple animation for sfps
 Fixed system ui crash when unlocking the device with sfps
 Enabled battery health
 Tons of other misc. changes
-
-
-### Notes:
-• EROFS build
-• Use latest recovery (https://t.me/RedmiNote10ProChannel/1254) 
-• Use latest MIUI 13.x firmware for your region
-
-Credits:
-• Aryan and Vantom for sources
 
 ### Changelog for awakenOS v3.5:
 // New features:
