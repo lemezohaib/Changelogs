@@ -3,10 +3,11 @@
 ### Device Changelogs:
 
 #### 8-March-2023
-Updated kernel to 4.14.307
+Update kernel to 4.14.307
 Merge latest caf tag LA.UM.9.1.r1-13100-SMxxx0.QSSI13.0
 Update blobs from v14.0.2.0.TKFEUXM
-Update miuicamera from v14.0.2.0.TKFEUXM
+Add miuicamera from v14.0.2.0.TKFEUXM
+Import HotwordEnrollment blobs
 Fixed battery drain issues by gms
 
 ### Notes:
