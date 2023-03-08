@@ -2,6 +2,24 @@
 
 ### Device Changelogs:
 
+#### 8-March-2023
+Updated kernel to 4.14.307
+Merge latest caf tag LA.UM.9.1.r1-13100-SMxxx0.QSSI13.0
+Update blobs from v14.0.2.0.TKFEUXM
+Update miuicamera from v14.0.2.0.TKFEUXM
+Fixed battery drain issues by gms
+
+### Notes:
+• EROFS build
+• VantomKernel is the default kernel
+• Use latest recovery (https://t.me/RedmiNote10ProChannel/1254) 
+• Use latest MIUI 14.x firmware
+
+Credits:
+• Aryan and Vantom for sources
+• Gianni for testing
+
+
 #### 20-feb-2023
 Update kernel to 4.14.304
 Compiled with latest playground Clang 17
@@ -28,16 +46,6 @@ Fixed an issue with wi-fi
 Fixed ripple animation for sfps
 Fixed system ui crash when unlocking the device with sfps
 Tons of other misc. changes
-
-
-### Notes:
-• EROFS build
-• VantomKernel is the default kernel
-• Use latest recovery (https://t.me/RedmiNote10ProChannel/1254) 
-• Use latest MIUI 14.x firmware from here https://t.me/aryanschat/190280
-
-Credits:
-• Aryan and Vantom for sources
 
 ##$ Source Changelogs:
 - February security patch
