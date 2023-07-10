@@ -1,0 +1,15 @@
+Device Changelog:
+June security patch
+Updated kernel to 4.14.320
+Merge latest caf tag LA.UM.9.1.r1-13700-SMxxx0.QSSI12.0
+Dropped prebuilt display stack
+SDCardFS Deprecation
+Enabled case folding support on userdataUse 
+FUSE passthrough by default
+Imported missing audio and sensor libraries
+Reduce the number of pinned acdb files
+Enabled full LTO
+Various other device tree and kernel changes
+
+Source Changelog:
+https://arrowos.net/changelog.php
