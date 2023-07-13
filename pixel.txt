@@ -13,6 +13,7 @@ FUSE passthrough by default
 Imported missing audio and sensor libraries
 Reduce the number of pinned acdb files
 Enabled full LTO
+Add spatial audio support from Cheetah TQ3A.230605.012
 Fixed Netflix HDR
 Various other device tree and kernel changes
 Updated gapps and translations
