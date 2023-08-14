@@ -2,6 +2,29 @@
 
 #### 13-July-2023
 ### Device Changelogs:
+August Security Patch
+Pixel Launcher/ASI drain fixes
+Updated kernel to 4.14.322
+Updated miui blobs from 14.0.4.0.TKFMIXM
+Updated miuicamera from 14.0.4.0.TKFMIXM
+Added support for mi Dolby
+Added notch bar killer
+Bump zram to 3GB
+Tune refresh rate timers to minimize display color shift
+Others under-the-hood fixes
+Translations updated
+
+Note:
+• Use latest recovery (https://sourceforge.net/projects/aosp-builds/files/OrangeFox-R11.1_4-Unofficial-sweet.zip/download) 
+• Use latest MIUI 14.x firmware for your region
+
+Credits:
+• Aryan and Vantom for sources
+• Pulkit for mi Dolby
+
+
+#### 13-July-2023
+### Device Changelogs:
 July security patch
 Source rebased
 Updated kernel to 4.14.320
