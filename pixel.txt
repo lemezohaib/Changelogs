@@ -1,5 +1,26 @@
 ## Pixel Experience Plus unofficial for Redmi Note 10 Pro (sweet)
 
+#### 29-Sep-2023
+### Device Changelogs:
+September security patch
+Switced to adrian clang 18
+Updated kernel to 4.14.326
+Merge latest caf tag LA.UM.9.1.r1-13900-SMxxx0.QSSI13.0
+Added support for the FTS touchscreen driver
+Fixed an issue where the screen would flicker on the top/bottom in certain apps
+Add metadata to recovery.fstab so it is formatted on factory reset
+Updated Adreno to Moto G84 (bangkk)
+Dropped mi dolby
+Other misc. changes
+
+Notes:
+• Use latest recovery (https://t.me/lemezohaIbbuilds/42) 
+• Use latest MIUI 14.x firmware for your region
+
+Credits:
+• Aryan and Vantom for sources
+• Iron Man for testing 
+
 #### 13-July-2023
 ### Device Changelogs:
 August Security Patch
