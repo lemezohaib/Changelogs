@@ -1,18 +1,26 @@
-# 05-July-2024
-  
-- July security patch
+# 23-Aug-2024
+
+## Device Changelog:
+- August security patch
 - Upstream kernel
-- Updated common blobs from cupid V816.0.9.0.ULCEUXM
-- Updated marble blobs and fingerprint from  V816.0.8.0.UMREUXM
-- Updated miuicamera from marble  V816.0.8.0.UMREUXM
-- Fixed screen flickering
-- Workaround for AOD flicker
-- Build missing libraries for 14 QPR3
-- Move to new RFS install_symlink targets
--  Declare IMS EGL and WFD libs as symlinks
-- Convert WiFi firmware symlink to install_symlink target
-- Unset BUILD_BROKEN_INCORRECT_PARTITION_IMAGES
-- Enable HWUI adpf
-- Enable UserfaultFD based GC by default
-- Disable continuous transaction tracing on all build types
-- Misc improvements
+- Updated common blobs from diting V816.0.6.0.ULFMIXM
+- Updated marble blobs and fingerprint from  V816.0.7.0.UMRMIXM
+- Updated miuicamera from marble  V816.0.7.0.UMRMIXM
+- Auto brightness Improvements
+- Fix for camera OIS
+- Set HWC-specific properties
+- Drop xiaomi citsensorservice
+- Move to Xiaomi IR AIDL
+- overlay: Move rro packages to vendor partition
+- Remove DEVICE_PROVISIONED
+- Move more radio properties to vendor
+- Drop unused battery property
+- Build opensource soundtrigger HAL
+- Build xiaomi-telephony-stub and unpin telephony apks
+- rootdir: Add sdcard1 and usbotg to recovery fstab
+- Switch to source-built mlipay interface
+- Other misc changes
+
+## Known issues:
+- AOD flicker
+- Double tap to wake
